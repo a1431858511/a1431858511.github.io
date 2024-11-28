@@ -1,0 +1,4 @@
+index.html  // 网站的主页文件
+css/
+js/
+images/
